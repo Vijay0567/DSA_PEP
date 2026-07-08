@@ -6,6 +6,7 @@
 #         self.right = right
 
 from typing import Optional
+from __future__ import annotations
 
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
