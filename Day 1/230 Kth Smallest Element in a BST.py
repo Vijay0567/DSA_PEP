@@ -6,7 +6,7 @@
 #         self.right = right
 
 from typing import Optional
-from __future__ import annotations
+
 
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
