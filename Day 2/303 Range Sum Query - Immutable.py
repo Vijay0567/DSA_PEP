@@ -3,6 +3,8 @@
 # param_1 = obj.sumRange(left,right)
 
 
+from typing import List
+
 class NumArray:
 
     def __init__(self, nums: List[int]):
